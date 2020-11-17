@@ -32,7 +32,7 @@ def quickSort(arr,low,high):
 
 		# pi is partitioning index, arr[p] is now 
 		# at right place 
-		pi = partition(arr,low,high) 
+		pi = partition(arr,low,high)
 
 		# Separately sort elements before 
 		# partition and after partition 
